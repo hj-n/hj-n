@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h2 align="center">WELCOME!!</h2>
+  <h1 align="center">WELCOME!!</h1>
   <p align="center">
     Graduate Student / Loves Programming & Developing
     <br />
