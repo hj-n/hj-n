@@ -4,5 +4,4 @@ Hi! I'm an MS Student in Human-Computer Interaction Lab at Seoul National Univer
 
 Contact me via [my email](hj@hcil.snu.ac.kr)!!
 
-![Hyeon's github stats](https://github-readme-stats.vercel.app/api?username=jeonhyun97&count_private=true&show_icons=true?theme=radical)
-
+![Hyeon's github stats](https://github-readme-stats.vercel.app/api?username=jeonhyun97&count_private=true&show_icons=true&theme=solarized-light)
