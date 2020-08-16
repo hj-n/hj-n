@@ -1,9 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="./android.png" width="100" height="100">
-  </a>
-  <h3 align="center">WELCOME!!</h3>
+  <h2 align="center">WELCOME!!</h2>
   <p align="center">
     Graduate Student / Loves Programming & Developing
     <br />
@@ -20,4 +17,3 @@ Hi! I'm an MS Student in Human-Computer Interaction Lab at Seoul National Univer
 
   
 ![Hyeon's github stats](https://github-readme-stats.vercel.app/api?username=jeonhyun97&count_private=true&show_icons=true&theme=solarized-light)
-
