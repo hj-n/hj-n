@@ -1,7 +1,10 @@
 
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="images/android.png" alt="Logo" width="80" height="80">
+    <img src="./android.png" width="100" height="100">
+  </a>
+  <a href="https://github.com/github_username/repo">
+    <img src="./android.png" style="transform: scaleX(-1);"  width="100" height="100">
   </a>
   <h3 align="center">WELCOME!!</h3>
   <p align="center">
