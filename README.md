@@ -6,7 +6,7 @@
     <br />
     <a href="https://hyeonjeon.com/">Blog</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Curriculum Vitae</a>
+    <a href="https://hyeonjeon.com/cv/cv.pdf">Curriculum Vitae</a>
     ·
     <a href="mailto: hj@hcil.snu.ac.kr">Email</a>
   </p>
