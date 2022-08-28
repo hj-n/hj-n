@@ -13,4 +13,4 @@
 </p>
 
 
-Hi! I'm a Ph.D. Student in Human-Computer Interaction Lab at Seoul National University. I'm currently interested in Information Visualization, Dimensionality Reduction, Large-scale / High-dimensional Data Analysis.
+Hi! I'm a Ph.D. Student in Human-Computer Interaction Lab at Seoul National University. My work crosses the realms of Data Visualization and Machine Learning. Currently, I'm interested in developing new techniques that help users better utilize unsupervised learning techniques, such as dimensionality reduction or clustering.
